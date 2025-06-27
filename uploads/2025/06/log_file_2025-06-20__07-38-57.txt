@@ -1,0 +1,110 @@
+
+---Downloaded files---
+The import files for: Home  were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://staging.theshin.info
+Data file = /var/www/html/wp-content/themes/oworganic/inc/vendors/one-click-demo-import/data/dummy-data.xml
+Widget file = /var/www/html/wp-content/themes/oworganic/inc/vendors/one-click-demo-import/data/widgets.wie
+Customizer file = not defined!
+Redux files:
+oworganic_theme_options -> /var/www/html/wp-content/themes/oworganic/inc/vendors/one-click-demo-import/data/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Apus Filter Products by Attribute - No Title - Imported
+
+Blog sidebar : 
+
+Block - No Title - Imported
+Apus Recent Posts Widget - Recent Post - Imported
+Block - No Title - Imported
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Filter Products by Price - Price - Imported
+Apus Filter Products by Attribute - Colors - Imported
+Apus Filter Products by Attribute - Sizes - Imported
+Product Tag Cloud - Tags - Imported
+
+Shop Filter Sidebar : 
+
+Block - No Title - Imported
+Filter Products by Price - Price - Imported
+Apus Filter Products by Attribute - Colors - Imported
+Apus Filter Products by Attribute - Sizes - Imported
+Product Tag Cloud - Tags - Imported
+
+Popup Newsletter : 
+
+Apus Popup Newsletter Widget -  Join our newsletter and get 20% discount - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: oworganic_theme_options finished successfully!
+
+---ocdi/after_import---
+

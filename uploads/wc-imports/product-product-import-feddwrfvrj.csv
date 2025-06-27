@@ -1,0 +1,55 @@
+﻿ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 2 name,Attribute 2 value(s),Attribute 2 visible,Attribute 2 global,Meta: rs_page_bg_color,Meta: variation_swatches_disabled,Meta: inline_featured_image,variant_supplier
+,simple,skincare20,2-in-1 Sunblock & Moisturiser for Kids 50ml,1,,visible,,,,,none,,,0,,,,,,,,,,,17.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,3rd Supplier
+,simple,skincare19,2-in-1 Sunblock & Skincare 50ml,1,,visible,,,,,none,,,0,,,,,,,,,,,17.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,3rd Supplier
+,simple,skincare15,Aha-Bha Serum 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,33.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,supplement13,Beauty Health 90s,1,,visible,,,,,none,,,0,,,,,,,,,,,62.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement15,Bone Health 90s,1,,visible,,,,,none,,,0,,,,,,,,,,,57.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement01,Carb Blocker 50 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,55.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement02,Colon Shield 51 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,62.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement03,Complete Multivitamin 52 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,35.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement12,Extra Stregth - Omega 3 Fish Oil 200s,1,,visible,,,,,none,,,0,,,,,,,,,,,55.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,skincare12,Eye Contour Serum 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,34.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare10,Grounding Blend Oil 10ml,1,,visible,,,,,none,,,0,,,,,,,,,,,49.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare35,Handmade Soap - Activated Charcoal 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare36,Handmade Soap - Fresh Peppermint 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare21,Handmade Soap - Hemp & Goats Milk 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare22,Handmade Soap - Honey & Goats Milk 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare27,Handmade Soap - Just Honey 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare23,Handmade Soap - Lavender & Goats Milk 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare28,Handmade Soap - Lavender Rosewood 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare33,Handmade Soap - Love Potion 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare24,Handmade Soap - Oatmeal & Goats Milk 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare25,Handmade Soap - Pure Goats Milk 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare34,Handmade Soap - Recovery Bar 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare29,Handmade Soap - Seaweed & Aloe Scrub 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare30,Handmade Soap - Vanilla Honey Scrub 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare31,Handmade Soap - Walnut Scrub 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,skincare32,Handmade Soap - Working Man 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,supplement16,Joint Health 80s,1,,visible,,,,,none,,,0,,,,,,,,,,,61.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement10,Liver Clean 59 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,54.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement04,Liver Shield 53 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,63.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement05,Magnesium Glycinate 54 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,32.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,skincare16,Moisturizing Face Serum 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,34.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare05,Natural Aleppo Soap 40% Laurael 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,27.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare07,Natural Body Lotion 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,21.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare02,Natural Castile Soap Lavender 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,22.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare04,Natural Castile Soap Orange 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,22.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare03,Natural Castile Soap Tea Tree 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,22.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare17,Natural Face Cleanser 200ml,1,,visible,,,,,none,,,0,,,,,,,,,,,27.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare09,Natural Kids Shampoo 400ml,1,,visible,,,,,none,,,0,,,,,,,,,,,19.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare08,Natural Leave-On Hair Conditioner 200ml,1,,visible,,,,,none,,,0,,,,,,,,,,,21.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare06,Natural Massage Oil 150ml,1,,visible,,,,,none,,,0,,,,,,,,,,,18.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare01,Natural Shampoo 500ml,1,,visible,,,,,none,,,0,,,,,,,,,,,25.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare26,Natural Shampoo Bar 100g,1,,visible,,,,,none,,,0,,,,,,,,,,,9.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,4th supplier
+,simple,supplement14,Night Recharge 80s,1,,visible,,,,,none,,,0,,,,,,,,,,,55.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement08,Power Brain Kids 57 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,37.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement09,Power Immune Kids 60s,1,,visible,,,,,none,,,0,,,,,,,,,,,35.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement06,Pre & Probiotics 55 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,35.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement07,Probiotics Lactobacillus 56 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,32.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement18,Prostate Health 60s,1,,visible,,,,,none,,,0,,,,,,,,,,,55.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,skincare13,Retinol Serum 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,33.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,skincare18,Sebocure Cream 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,15.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,3rd Supplier
+,simple,skincare11,Soothing Blend Oil 10ml,1,,visible,,,,,none,,,0,,,,,,,,,,,49.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
+,simple,supplement17,Testo Health 60s,1,,visible,,,,,none,,,0,,,,,,,,,,,57.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,supplement11,Turmeric Curcumin 60 tablets,1,,visible,,,,,none,,,0,,,,,,,,,,,32.9,Supplement,,,,,,,,,,,,,,,,,,,,,,,,2nd Supplier
+,simple,skincare14,Vitamine C Oil 30ml,1,,visible,,,,,none,,,0,,,,,,,,,,,35.9,Skincare,,,,,,,,,,,,,,,,,,,,,,,,1st supplier
