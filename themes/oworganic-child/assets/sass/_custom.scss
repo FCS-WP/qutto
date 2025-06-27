@@ -15,8 +15,8 @@ p {
 }
 
 .elementor-column-gap-extended {
-  > .elementor-column.column_100 {
-    > .elementor-element-populated {
+  >.elementor-column.column_100 {
+    >.elementor-element-populated {
       padding: 0;
     }
   }
@@ -57,10 +57,10 @@ p {
   }
 }
 
-.elementor-323 {
-  .main_visual {
-    .elementor-element.elementor-element-c701582 {
-      .elementor-repeater-item-f9c9349 {
+.elementor {
+  .main_visual.elementor-element {
+    .elementor-element {
+      .swiper-slide {
         .swiper-slide-bg {
           background-size: 50%;
           background-position: right center;
@@ -116,24 +116,4 @@ p {
 
 .elementor-icon.elementor-social-icon {
   display: inline-flex;
-}
-
-// Change main color on button hover/focus
-#main-content {
-  .elementor-element.elementor-element-6ae1a6b {
-    .elementor-button {
-      &:hover,
-      &:focus {
-        background-color: var(--e-global-color-primary);
-      }
-    }
-  }
-}
-
-// Button overlay effect
-.btn-theme-overlay {
-  .elementor-button:before,
-  .rev-btn:before {
-    // (original CSS was cut off; complete logic here if needed)
-  }
 }
