@@ -489,8 +489,9 @@
         },
         initPopupNewsletter: function() {
             var self = this;
-
-            if ($('.popupnewsletter').length > 0) {
+            var isHomeUrl = window.location.pathname == '/' ? true : false;
+            
+            if ($('.popupnewsletter').length > 0 && isHomeUrl) {
                 setTimeout(function(){
                     var hiddenmodal = self.getCookie('hidde_popup_newsletter');
                     if (hiddenmodal == "") {
