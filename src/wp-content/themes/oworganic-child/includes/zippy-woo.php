@@ -21,61 +21,37 @@ function is_first_order_for_registered_customer($user_id = 0)
     return $customer_orders == 0;
 }
 
-// apply coupon for first order
-add_action('woocommerce_before_calculate_totals', 'apply_first_order_discount_for_registered_user');
-function apply_first_order_discount_for_registered_user($cart)
+add_action('woocommerce_cart_calculate_fees', 'apply_coupon_on_cart_update');
+function apply_coupon_on_cart_update()
 {
-    global $coupon_code;
     global $min_order_total;
-
-    if (is_admin() && !defined('DOING_AJAX'))
-        return;
-
-    // is user logged in
-    if (!is_user_logged_in()) {
-        return;
-    }
-
-    // check if coupon is already applied
-    $applied_coupons = $cart->get_applied_coupons();
-    if (in_array($coupon_code, $applied_coupons))
+    if (!is_user_logged_in())
         return;
 
     $user_id = get_current_user_id();
+    if (!is_first_order_for_registered_customer($user_id))
+        return;
 
-    $cart_total = $cart->get_subtotal();
-
-    // apply coupon if first order
-    if (is_first_order_for_registered_customer($user_id) && $cart_total >= $min_order_total) {
-        $cart->apply_coupon($coupon_code);
-    }
-}
-
-add_action('woocommerce_cart_updated', 'apply_coupon_on_cart_update');
-function apply_coupon_on_cart_update() {
-    global $min_order_total;
-
-    if (!is_user_logged_in()) return;
-    
-    $user_id = get_current_user_id();
-    if (!is_first_order_for_registered_customer($user_id)) return;
-    
     $cart = WC()->cart;
     $cart_total = $cart->get_subtotal();
     $applied_coupons = $cart->get_applied_coupons();
     $has_first_order_coupon = in_array('first_order_20', $applied_coupons);
-    
+
+
     if ($cart_total >= $min_order_total) {
         // apply cp if sub total >= 60
         if (!$has_first_order_coupon) {
             $cart->apply_coupon('first_order_20');
+            $cart->calculate_totals();
         }
     } else {
         // remove coupon if subtotal < 60
         if ($has_first_order_coupon) {
             $cart->remove_coupon('first_order_20');
+            $cart->calculate_totals();
         }
     }
+    
 }
 
 // Validate coupon in checkout process
