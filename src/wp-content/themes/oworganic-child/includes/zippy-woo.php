@@ -107,4 +107,26 @@ function restrict_first_order_coupon_usage_to_registered_users_only($valid, $cou
     return $valid;
 }
 
-?>
+
+// add FAQ tab to product detail page
+add_filter( 'woocommerce_product_tabs', 'add_faq_tab_product_detail' );
+function add_faq_tab_product_detail( $tabs ) {
+    //FAQ tab
+    $tabs['faq'] = array(
+        'title'     => __('FAQ', 'woocommerce' ),
+        'priority'  => 100,
+        'callback'  => 'get_faq_tab_content'
+    );
+
+    return $tabs;
+}
+
+function get_faq_tab_content() {
+    global $product;
+    $product_id = $product->get_id();
+    $faq_content = get_field("faq_content", $product_id);
+    if(!empty($faq_content)){
+        echo "<h2>FAQ</h2>";
+        echo $faq_content;
+    }
+}
